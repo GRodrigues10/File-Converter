@@ -1,12 +1,25 @@
-# React + Vite
+# File Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação web feita em React JS que permite ao usuário selecionar ou arrastar arquivos e convertê-los para diferentes formatos, como DOC, PDF, TXT, XLSX e ZIP.
+O sistema oferece uma interface simples com botões intuitivos, suporte para resetar a escolha do arquivo e selecionar rapidamente o formato de saída.
+Ideal para conversões rápidas diretamente no navegador, sem necessidade de instalar programas adicionais.
 
-Currently, two official plugins are available:
+Tecnologias Utilizadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
 
-## Expanding the ESLint configuration
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- docx
+
+- jsPDF
+
+- xlsx
+
+- JSZip
+
+- file-saver
+
+- react-icons
+
+- CSS / Styled Components
