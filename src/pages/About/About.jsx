@@ -18,7 +18,6 @@ function About() {
             diretamente no navegador, sem necessidade de instalar programas
             adicionais.
           </p>
-      
         </div>
       </StylesAbout>
     </>
