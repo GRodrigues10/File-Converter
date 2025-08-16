@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-     <Router>
+     <Router basename='/File-Converter/'>
         <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/about' element={<About/>}/>
