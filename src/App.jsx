@@ -7,7 +7,7 @@ import About from "./pages/About/About";
 function App() {
   return (
     <>
-      <Router basename="/File-Converter/">
+      <Router basename="/File-Converter">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />

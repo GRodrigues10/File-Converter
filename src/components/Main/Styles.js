@@ -58,7 +58,7 @@ export const StylesMain = styled.div`
     transition: 0.4s ease;
 
     &:hover {
-      background-color: #2076d3ff;
+      background-color: #1063bbff;
     }
   }
 

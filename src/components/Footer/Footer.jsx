@@ -8,11 +8,13 @@ function Footer() {
 
            <h2>Supported Formats</h2>
         <div className="types">
-          <p>DOC</p>
-          <p>PDF</p>
           <p>TXT</p>
-          <p>Zip</p>
-          <p>XLSX</p>
+          <p>CSV</p>
+          <p>JSON</p>
+          <p>PNG</p>
+          <p>JPG</p>
+          <p>JPEG</p>
+          
          
         </div>
         </footer>
