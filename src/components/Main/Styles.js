@@ -160,7 +160,7 @@ export const StylesMain = styled.div`
     }
     main {
       width: 600px;
-      min-height: 350px;
+      min-height: 370px;
     }
 
     img {
